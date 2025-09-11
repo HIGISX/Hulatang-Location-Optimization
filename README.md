@@ -7,9 +7,9 @@ This repository implements a cooperative–competitive location model for Hulata
 - SA (Simulated Annealing; demonstrated in notebooks)
 - DRL (Attention-based deep reinforcement learning, PyTorch)
 
-The overall pipeline of data preprocessing, model construction, and visualization is shown below (`image/架构图.jpg`):
+The overall pipeline of data preprocessing, model construction, and visualization is shown below (`image/image1.jpg`):
 
-![pipeline](image/iamge1.jpg)
+![pipeline](image/image1.jpg)
 
 Selected visualization results (see more in the `image/` folder):
 
