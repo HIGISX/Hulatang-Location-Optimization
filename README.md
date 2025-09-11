@@ -9,7 +9,7 @@ This repository implements a cooperative–competitive location model for Hulata
 
 The overall pipeline of data preprocessing, model construction, and visualization is shown below (`image/架构图.jpg`):
 
-![pipeline](image/架构图.jpg)
+![pipeline](image/iamge1.jpg)
 
 Selected visualization results (see more in the `image/` folder):
 
